@@ -19,4 +19,13 @@ Basic Machine Learning - This folder contains proofs and LaTeX answers from the 
 5. *Linear Algebra in Machine Learning: Projections, Covariance, and Naive Bayes*
 (Main concepts: vector projections, covariance matrices, Naive Bayes classification)
 
+---
+
 Machine Learning Exercises - Code exercises related to the course content in Machine Learning Methods.
+
+---
+
+Matrix Methods and Numerical Linear Algebra
+
+
+---
