@@ -1,8 +1,13 @@
 Machine Learning Coursework and Practice Problems
+Author: Hunter Carroll
 
 ---
 
-Basic Machine Learning - This folder contains proofs and LaTeX answers from the CU Denver course Machine Learning Methods. 
+This repo contains my work, written and coding solutions from the CU Denver course in Machine Learning Methods. This repo will also contain my worked solutions from Numerical Linear Algebra and Matrix Methods at California State University, Long Beach. Along with some general machine learning projects that I have led on my own. 
+
+---
+
+Basic Machine Learning
 
 1. *Linear Regression and Ridge Regression: Least Squares, Matrix Formulation, and Regularization*
 (Main concepts: RSS in matrix form, normal equations, ridge regression closed-form solution)
