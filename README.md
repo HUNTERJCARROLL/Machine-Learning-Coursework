@@ -1,8 +1,8 @@
 # Machine Learning Coursework and Practice Problems
 
-This repository showcases a combination of **theoretical foundations** and **hands-on implementations** in machine learning, completed as part of the **CU Denver – Machine Learning Methods** course. The work emphasizes mathematical rigor, algorithmic understanding, and practical model development using Python and standard ML libraries.
+Author: Hunter Carroll
 
-The repository is structured to highlight both **proof-based reasoning** and **applied machine learning skills**, making it suitable as a technical portfolio for graduate study or industry roles.
+This repository showcases a combination of **theoretical foundations** and **hands-on implementations** in machine learning, completed as part of the **[CU Denver – Machine Learning Methods](https://github.com/CU-Denver-MathStats-OER/Machine-Learning-Methods)** course. The work emphasizes practical model development using Python and standard ML libraries.
 
 ---
 
@@ -22,7 +22,6 @@ The repository is structured to highlight both **proof-based reasoning** and **a
 
 This section contains written solutions and LaTeX-based proofs corresponding to the course  
 [Machine Learning Methods](https://github.com/CU-Denver-MathStats-OER/Machine-Learning-Methods).  
-The focus is on *deriving algorithms from first principles* rather than treating them as black boxes.
 
 **Highlighted topics:**
 
@@ -43,7 +42,7 @@ The focus is on *deriving algorithms from first principles* rather than treating
 
 ---
 
-## Machine Learning Exercises (Programming Portfolio)
+## Machine Learning Exercises
 
 This section contains end-to-end programming assignments implementing core machine learning algorithms, including data exploration, model training, evaluation, and visualization.
 
