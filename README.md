@@ -71,3 +71,9 @@ This section contains end-to-end programming assignments implementing core machi
 ## Matrix Methods and Numerical Linear Algebra
 
 Additional projects and notes focused on matrix methods and numerical linear algebra for machine learning are planned and will be added to this repository.
+
+---
+
+
+Helpful Links and Good Resources: 
+1. [Introduction to Machine Learning (I2ML)](https://slds-lmu.github.io/i2ml/)
